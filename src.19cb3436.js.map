@@ -1,0 +1,1 @@
+{"version":3,"sources":["../src/index.js"],"names":["console","log"],"mappings":";AAAAA,QAAQC,IAAI,iBACZD,QAAQC,IAAI","file":"src.19cb3436.js","sourceRoot":"..\\public","sourcesContent":["console.log(\"Hello, World!\");\r\nconsole.log(\"Hello, World!222\");"]}
